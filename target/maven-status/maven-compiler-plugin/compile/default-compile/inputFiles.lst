@@ -1,0 +1,12 @@
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/entities/HealthCheck.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/configuration/PrometheusEndpointContextConfiguration.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/QueueMasterApplication.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/configuration/ShippingConsumerConfiguration.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/controllers/PrometheusEndpoint.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/controllers/PrometheusMvcEndpoint.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/DockerSpawner.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/controllers/HealthCheckController.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/configuration/RabbitMqConfiguration.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/monitoring/PrometheusMetricWriter.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/queuemaster/ShippingTaskHandler.java
+/Users/KevdeVries/Documents/College/Year4/ScalableMicroservices/Assignment2/queue-master/src/main/java/works/weave/socks/shipping/entities/Shipment.java
